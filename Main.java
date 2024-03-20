@@ -18,6 +18,8 @@ public class Main {
 //Map: permite transformar cada elemento da stream em outro tipo de dado
 //ForEach: permite executar uma ação em cada elemento da stream
 //Collect: permite coletar os elementos da stream em uma coleção ou em outro tipo de dado
+//O que é flatMap?
+//O método flatMap() primeiro mapeia cada elemento usando uma função de mapeamento e, em seguida, nivela o resultado em um novo array        
 
     }
 }
