@@ -19,7 +19,8 @@ public class Main {
 //ForEach: permite executar uma ação em cada elemento da stream
 //Collect: permite coletar os elementos da stream em uma coleção ou em outro tipo de dado
 //O que é flatMap?
-//O método flatMap() primeiro mapeia cada elemento usando uma função de mapeamento e, em seguida, nivela o resultado em um novo array        
+//O método flatMap() primeiro mapeia cada elemento usando uma função de mapeamento e, em seguida, nivela o resultado em um novo array 
+//Uma stream é uma sequência de elementos que pode ser processada em paralelo ou em série. Ela pode ser criada a partir de uma coleção, um array, um arquivo, entre outros.        
 
     }
 }
